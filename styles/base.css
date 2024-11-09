@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+header { background-color: #333; color: #fff; padding: 1rem; text-align: center; }
+
+nav ul { list-style: none; padding: 0; } nav ul li { display: inline; margin-right: 1rem; }
+
+
+nav ul li a { color: #fff; text-decoration: none; } main { max-width: 800px; margin: 2rem auto; padding: 1rem; background-color: #fff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); }
+
+.card { margin-bottom: 2rem; padding: 1rem; border: 1px solid #ddd; border-radius: 5px; } .card img { max-width: 100%; height: auto; border-radius: 5px; } footer { text-align: center; padding: 1rem; background-color: #333; color: #fff; }
